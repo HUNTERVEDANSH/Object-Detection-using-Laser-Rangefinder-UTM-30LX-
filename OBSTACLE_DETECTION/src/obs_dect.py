@@ -124,6 +124,5 @@ if __name__ == '__main__':
     rospy.init_node('check_obstacle') #initilize node
     laser_scan_data() #run class
     rospy.spin() #loop it
-    
-#CODER
+
 # VEDANSH BENIWAL ^_^ 
