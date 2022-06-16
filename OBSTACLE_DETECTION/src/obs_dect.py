@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import rospy # Python library for ROS
 import math # Pyton library for mathematical functions 
 from sensor_msgs.msg import LaserScan #import library for lidar sensor
