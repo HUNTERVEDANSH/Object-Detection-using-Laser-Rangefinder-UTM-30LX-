@@ -1,5 +1,5 @@
 <launch>
-	<node pkg="check_obstacle" type="code5.py" name="check_obstacle" output="screen">
+	<node pkg="OBSTACLE_DECTECTION" type="obs_dect.py" name="OBSTACLE_CETECTION" output="screen">
 	</node>
 </launch>
 
